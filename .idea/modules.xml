@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/gradle.iml" filepath="$PROJECT_DIR$/gradle.iml" />
-      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gradle-27519128.iml" filepath="$PROJECT_DIR$/gradle-27519128.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library-normal.iml" filepath="$PROJECT_DIR$/library/library-normal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library-simulator/library-simulator.iml" filepath="$PROJECT_DIR$/library-simulator/library-simulator.iml" />
     </modules>
   </component>
 </project>
